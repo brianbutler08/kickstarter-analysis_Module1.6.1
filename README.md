@@ -28,4 +28,5 @@ Of the nine general categories of fundraising campaigns, the theater category ha
 
 When we looked at the timing of when campaigns were launched, it appears that there is a correlation between launch month and outcome. Overall, May was the most successful launch month for campaigns, with success rates gradually tapering downward over the summer.
 
+![Line graph of campaign launch months](https://github.com/brianbutler08/kickstarter-analysis_Module1.6.1/blob/main/Outcomes%20Based%20on%20Launch%20Date.png?raw=true)
 
