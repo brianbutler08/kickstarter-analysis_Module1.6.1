@@ -24,6 +24,8 @@ We acquired a dataset (n=4,114) of various Kickstarter campaigns from 2009 to 20
 
 Of the nine general categories of fundraising campaigns, the theater category had the most number of projects during this time period (1393), almost twice the number of the next most popular project (music – 700). When looking at only the US based projects, this trend continued, with 912 campaigns categorized as “theater”. Additionally, theater projects were the most successful during this time period, with 525 projects being successfully funded. And of those projects that were successful, 412 of them were plays, making “plays” the subcategory with the most successfully funded campaigns in the US.
 
+![Parent Category Outcomes Bar chart](
+
 ## Timing Your Campaign Launch
 
 When we looked at the timing of when campaigns were launched, it appears that there is a correlation between launch month and outcome. Overall, May was the most successful launch month for campaigns, with success rates gradually tapering downward over the summer.
